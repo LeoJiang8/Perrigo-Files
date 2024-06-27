@@ -1,0 +1,19 @@
+[
+  {
+    "$type": "Recipe",
+    "Name": "1",
+    "Description": ""
+  },
+  {
+    "$type": "Recipe",
+    "Name": "2",
+    "Description": "",
+    "IsLastLoaded": true
+  },
+  {
+    "$type": "Recipe",
+    "Name": "3",
+    "Description": "",
+    "IsLastLoaded": true
+  }
+]

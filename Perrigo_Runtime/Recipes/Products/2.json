@@ -1,0 +1,142 @@
+{
+  "$type": "RecipeConfiguration",
+  "MetaData": {
+    "$type": "RecipeConfigurationMetaData",
+    "ApplicationType": "Cognex Designer",
+    "ApplicationVersion": "4.4.1",
+    "ChildMetaDatas": [
+      {
+        "$type": "RecipeValueMetaData",
+        "IngredientId": "5db0456a-462a-4fcf-8a49-4b55e93099ac",
+        "TypeId": "Double",
+        "Address": "Settings.Cam1.LabelMinArea"
+      },
+      {
+        "$type": "RecipeValueMetaData",
+        "IngredientId": "adf9208d-a018-4d4e-b298-af0e017358fa",
+        "TypeId": "Double",
+        "Address": "Settings.Cam1.LidLabelAreaThresh"
+      },
+      {
+        "$type": "RecipeValueMetaData",
+        "IngredientId": "82f0f78f-1e27-4613-b1d4-32c071d0b55e",
+        "TypeId": "Double",
+        "Address": "Settings.Cam1.TamperAreaThresh"
+      },
+      {
+        "$type": "RecipeValueMetaData",
+        "IngredientId": "aeab177b-9d13-41ac-a4a2-eae242a89f33",
+        "TypeId": "Integer",
+        "Address": "Settings.Cam1.TamperMaxCount"
+      },
+      {
+        "$type": "RecipeValueMetaData",
+        "IngredientId": "02fe0adf-3350-47a3-bcdf-69f20cf7e7a8",
+        "TypeId": "Double",
+        "Address": "Settings.Cam2.LabelMinArea"
+      },
+      {
+        "$type": "RecipeValueMetaData",
+        "IngredientId": "34135337-ed54-485c-954d-d6b91956ae7d",
+        "TypeId": "Integer",
+        "Address": "Settings.Cam2.LabelMinCount"
+      },
+      {
+        "$type": "RecipeValueMetaData",
+        "IngredientId": "0b85bee1-9f25-4fbf-811b-031a74ddded8",
+        "TypeId": "Double",
+        "Address": "Settings.Cam3.LabelMinArea"
+      },
+      {
+        "$type": "RecipeValueMetaData",
+        "IngredientId": "8c7b8051-81b5-4669-a6d5-3e1ef644f90d",
+        "TypeId": "Integer",
+        "Address": "Settings.Cam3.LabelMinCount"
+      },
+      {
+        "$type": "RecipeValueMetaData",
+        "IngredientId": "b5530670-97ae-48a1-a17c-b4d1d0fee8e5",
+        "TypeId": "Double",
+        "Address": "Settings.Cam4.LabelMinArea"
+      },
+      {
+        "$type": "RecipeValueMetaData",
+        "IngredientId": "b3d92b37-89cd-4fb1-914b-1359c0714cd7",
+        "TypeId": "Integer",
+        "Address": "Settings.Cam4.LabelMinCount"
+      }
+    ]
+  },
+  "Values": [
+    {
+      "$type": "RecipeValue",
+      "IngredientId": "5db0456a-462a-4fcf-8a49-4b55e93099ac",
+      "Address": "Settings.Cam1.LabelMinArea",
+      "TypeId": "Double",
+      "Value": 250000.0
+    },
+    {
+      "$type": "RecipeValue",
+      "IngredientId": "adf9208d-a018-4d4e-b298-af0e017358fa",
+      "Address": "Settings.Cam1.LidLabelAreaThresh",
+      "TypeId": "Double",
+      "Value": 20000.0
+    },
+    {
+      "$type": "RecipeValue",
+      "IngredientId": "82f0f78f-1e27-4613-b1d4-32c071d0b55e",
+      "Address": "Settings.Cam1.TamperAreaThresh",
+      "TypeId": "Double",
+      "Value": 15000.0
+    },
+    {
+      "$type": "RecipeValue",
+      "IngredientId": "aeab177b-9d13-41ac-a4a2-eae242a89f33",
+      "Address": "Settings.Cam1.TamperMaxCount",
+      "TypeId": "Integer",
+      "Value": 5
+    },
+    {
+      "$type": "RecipeValue",
+      "IngredientId": "02fe0adf-3350-47a3-bcdf-69f20cf7e7a8",
+      "Address": "Settings.Cam2.LabelMinArea",
+      "TypeId": "Double",
+      "Value": 100000.0
+    },
+    {
+      "$type": "RecipeValue",
+      "IngredientId": "34135337-ed54-485c-954d-d6b91956ae7d",
+      "Address": "Settings.Cam2.LabelMinCount",
+      "TypeId": "Integer",
+      "Value": 3
+    },
+    {
+      "$type": "RecipeValue",
+      "IngredientId": "0b85bee1-9f25-4fbf-811b-031a74ddded8",
+      "Address": "Settings.Cam3.LabelMinArea",
+      "TypeId": "Double",
+      "Value": 200000.0
+    },
+    {
+      "$type": "RecipeValue",
+      "IngredientId": "8c7b8051-81b5-4669-a6d5-3e1ef644f90d",
+      "Address": "Settings.Cam3.LabelMinCount",
+      "TypeId": "Integer",
+      "Value": 3
+    },
+    {
+      "$type": "RecipeValue",
+      "IngredientId": "b5530670-97ae-48a1-a17c-b4d1d0fee8e5",
+      "Address": "Settings.Cam4.LabelMinArea",
+      "TypeId": "Double",
+      "Value": 100000.0
+    },
+    {
+      "$type": "RecipeValue",
+      "IngredientId": "b3d92b37-89cd-4fb1-914b-1359c0714cd7",
+      "Address": "Settings.Cam4.LabelMinCount",
+      "TypeId": "Integer",
+      "Value": 3
+    }
+  ]
+}
